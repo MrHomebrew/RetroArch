@@ -3911,6 +3911,10 @@ MSG_HASH(
     "Apple Green"
     )
 MSG_HASH(
+    MENU_ENUM_LABEL_VALUE_XMB_MENU_COLOR_THEME_BLACK_AND_YELLOW,
+    "Black and Yellow"
+    )
+MSG_HASH(
     MENU_ENUM_LABEL_VALUE_XMB_MENU_COLOR_THEME_DARK,
     "Dark"
     )
